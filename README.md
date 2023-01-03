@@ -39,4 +39,4 @@ Maximum Expected Profit: US$1,249,116,423.00<br>
 * **Business Problem:** Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European countries. The stores are going to be renovated and the CFO needs to know how much of the budget can be invested in each one of them.
 * **Solution:** Develop a prediction model for sales and a telegram bot that returns sales predictions of the next 6 weeks from a store id number.
 * **Conclusion:** The model developed predicts a gross income of $284.31 MM in the next 6 weeks for the stores available, where the best and worst case scenarios results on $313.44 MM and $255.20 MM, respectively. 
-* **Repository:** [Sales Predictions Telegram Bot](https://github.com/LucasZng/Rossmann_Bot)
+* **Telegram Bot Repository:** [Sales Predictions Telegram Bot](https://github.com/LucasZng/Rossmann_Bot)
