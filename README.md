@@ -29,7 +29,7 @@ The details of each solution are described in the projects bellow.
 
 ### [HouseRocket Insights](https://github.com/LucasZng/HouseRocket_Data_Analysis)
 * **Business Problem:** House Rocket business model consists of purchasing and reselling properties through a digital platform. The CEO wants mobile access to which properties the company should buy.
-* **Solution:** Develop a online dashboard with selected properties, a map view with properties distribution, a table with attributes filters, and the expected profit for each property.
+* **Solution:** Develop an online dashboard with selected properties, a map view with properties distribution, a table with attributes filters, and the expected profit for each house.
 * **Conclusion:** Based on business criteria, from 21,436 available properties, 10,707 should be bought by House Rocket and could result on a US$1,249,116,423.00 profit. This results on a 30.0 % gross revenue.
 <br>Maximum Value Invested: US$4,163,721,410.00<br>
 Maximum Value Returned: US$5,412,837,833.00<br>
