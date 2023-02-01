@@ -11,11 +11,9 @@ The details of each solution are described in the projects bellow.
 ### Analytical Tools:
 **Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server, Redshift, Snowflake, Oracle, Big Query, MongoDB, Cassandra and Hive.
 
-**Data Processing and Analysis:** R, Python, Spark and Airflow.
+**Data Processing and Analysis:** Python, Power BI, Excel.
 
-**Development:** Git, Scrum, Lean Analytics and Linux.
-
-**Data Visualization:** Tableau and Power BI.
+**Development:** Git, Scrum, Lean Analytics.
 
 **Machine Learning Modeling:** Classification, Regression, Clustering, Time Series and Reinforcement Learning.
 
