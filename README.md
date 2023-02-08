@@ -30,6 +30,12 @@ The details of each solution are described in the projects bellow.
 * **Solution:** Develop a revenue prediction model, classification of potential and age and social segmentation of neighborhoods in São Paulo.
 * **Conclusion:** The model showed very good results. For billing prediction, it has an average percentage error per neighborhood of only 11% ± 1. For potential classification, an accuracy of 87.5% ± 3.42. And for segmentation, a satisfactory age group division.
 
+### [Sales Predictions for a Drugstore Chain](https://github.com/LucasZng/Rossmann_Sales_Predict)
+* **Business Problem:** Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European countries. The stores are going to be renovated and the CFO needs to know how much of the budget can be invested in each one of them.
+* **Solution:** Develop a prediction model for sales and a telegram bot that returns sales predictions of the next 6 weeks from a store id number.
+* **Conclusion:** The model developed predicts a gross income of $284.31 MM in the next 6 weeks for the stores available, where the best and worst case scenarios results on $313.44 MM and $255.20 MM, respectively. 
+* **Telegram Bot Repository:** [Sales Predictions Telegram Bot](https://github.com/LucasZng/Rossmann_Bot)
+
 ### [HouseRocket Insights](https://github.com/LucasZng/HouseRocket_Data_Analysis)
 * **Business Problem:** House Rocket business model consists of purchasing and reselling properties through a digital platform. The CEO wants mobile access to which properties the company should buy.
 * **Solution:** Develop an online dashboard with selected properties, a map view with properties distribution, a table with attributes filters, and the expected profit for each house.
@@ -37,9 +43,3 @@ The details of each solution are described in the projects bellow.
 <br>Maximum Value Invested: US$4,163,721,410.00<br>
 Maximum Value Returned: US$5,412,837,833.00<br>
 Maximum Expected Profit: US$1,249,116,423.00<br>
-
-### [Sales Predictions for a Drugstore Chain](https://github.com/LucasZng/Rossmann_Sales_Predict)
-* **Business Problem:** Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European countries. The stores are going to be renovated and the CFO needs to know how much of the budget can be invested in each one of them.
-* **Solution:** Develop a prediction model for sales and a telegram bot that returns sales predictions of the next 6 weeks from a store id number.
-* **Conclusion:** The model developed predicts a gross income of $284.31 MM in the next 6 weeks for the stores available, where the best and worst case scenarios results on $313.44 MM and $255.20 MM, respectively. 
-* **Telegram Bot Repository:** [Sales Predictions Telegram Bot](https://github.com/LucasZng/Rossmann_Bot)
