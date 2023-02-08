@@ -25,6 +25,11 @@ The details of each solution are described in the projects bellow.
 
 ## Data Science Projects
 
+### [Demographic Analysis of São Paulo Neighborhoods](https://github.com/LucasZng/Geofusion)
+* **Business Problem:** Company X, located in Rio de Janeiro, wants to open branches in the city of São Paulo. The company wants to estimate its revenues, classify the potential and segment the neighborhoods of São Paulo according to the income and age profile, for targeting marketing campaigns, using as a base the already known data of the city of Rio de Janeiro.
+* **Solution:** Develop a revenue prediction model, classification of potential and age and social segmentation of neighborhoods in São Paulo.
+* **Conclusion:** The model showed very good results. For billing prediction, it has an average percentage error per neighborhood of only 11% ± 1. For potential classification, an accuracy of 87.5% ± 3.42. And for segmentation, a satisfactory age group division.
+
 ### [HouseRocket Insights](https://github.com/LucasZng/HouseRocket_Data_Analysis)
 * **Business Problem:** House Rocket business model consists of purchasing and reselling properties through a digital platform. The CEO wants mobile access to which properties the company should buy.
 * **Solution:** Develop an online dashboard with selected properties, a map view with properties distribution, a table with attributes filters, and the expected profit for each house.
